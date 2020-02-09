@@ -7,5 +7,5 @@
 
 - [x] Finish Highschool
 - [x] Enroll at Boise State University
-- [] Graduate
+- [ ] Graduate
 - [x] Make a pointless checklist
