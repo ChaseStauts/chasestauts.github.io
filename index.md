@@ -3,7 +3,7 @@
   1. Cyber Security Emphasis
   
 > "If the world were flat... I dont know, that'd be pretty neat I guess.
-  - Me.
+  -- Me.
 
 - [x] Finish Highschool
 - [x] Enroll at Boise State University
